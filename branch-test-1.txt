@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict-1
+=======
+Conflict-2
+>>>>>>> test-conflict-2
